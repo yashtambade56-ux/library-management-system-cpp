@@ -19,7 +19,8 @@ This project is a simple Library Management System developed using C++. It demon
 LibraryManagementSystem         
 │                 
 ├── main.cpp           
-├── Report.pdf                  
+├── Report.pdf   
+├── presentation.pptx
 └── README.md                
 
 ## ⚙️ How to Run
