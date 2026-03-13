@@ -1,0 +1,10 @@
+001,The Great Gatsby,F. Scott Fitzgerald,0
+002,The White Tiger,Aravind Adiga,1
+003,Wings of Fire,A.P.J. Abdul Kalam,0
+004,Dune,Frank Herbert,0
+005,Train to Pakistan,Khushwant Singh,1
+006,The God of Small Things,Arundhati Roy,0
+007,Project Hail Mary,Andy Weir,0
+008,The Psychology of Money,Morgan Housel,1
+009,Shiva Trilogy,Amish Tripathi,0
+010,Brave New World,Aldous Huxley,1
