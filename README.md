@@ -18,10 +18,11 @@ This project is a simple Library Management System developed using C++. It demon
 ## 📂 Project Structure
 LibraryManagementSystem         
 │                 
-├── main.cpp           
+├── main.cpp                         
+├── library.txt                     
 ├── Report.pdf   
 ├── presentation.pptx
-└── README.md                
+└── README.md                        
 
 ## ⚙️ How to Run
 1. Download the project
