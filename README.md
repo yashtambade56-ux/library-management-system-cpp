@@ -16,7 +16,6 @@ This project is a simple Library Management System developed using C++. It demon
 - Console Based Application
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```text
 LibraryManagementSystem                 
