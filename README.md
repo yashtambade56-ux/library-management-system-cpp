@@ -16,13 +16,14 @@ This project is a simple Library Management System developed using C++. It demon
 - Console Based Application
 
 ## 📂 Project Structure
-LibraryManagementSystem         
-│                 
-├── main.cpp                         
-├── library.txt                     
-├── Report.pdf   
-├── presentation.pptx
-└── README.md                        
+LibraryManagementSystem                
+│                        
+├── main.cpp                                     
+├── library.txt               
+├──README.md                  
+└──documentation                  
+   ├── Report.pdf                      
+   └── presentation.pptx                                     
 
 ## ⚙️ How to Run
 1. Download the project
